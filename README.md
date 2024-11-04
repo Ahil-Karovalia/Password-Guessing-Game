@@ -44,6 +44,7 @@ Congratulations! You've guessed the password 63 in 3 attempts.
 2. Compile the program:
 
 javac PasswordGuessingGame.java
+
 3. Run the program:
 
 java PasswordGuessingGame
